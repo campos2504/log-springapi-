@@ -14,7 +14,7 @@ import lombok.Setter;
 public class EntregaInput {
     @Valid
     @NotNull
-    private ClienteIdInput clienteId;
+    private ClienteIdInput cliente;
 
     @Valid
     @NotNull
